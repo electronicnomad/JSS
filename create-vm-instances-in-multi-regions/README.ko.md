@@ -3,6 +3,8 @@
 단일 유형의 VM 인스턴스를 여러 리전에 배포하는 ```bash``` 쉘 스크립트입니다.
 반복적인 작업을 최소화하는 것에 목적이 있습니다.
 
+Read this in other language: [English](README.md)
+
 ## 대략적인 설명
 
 총 7개의 파일입니다.
