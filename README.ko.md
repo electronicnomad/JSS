@@ -1,5 +1,7 @@
 # gcloud
 
+Read this in other language: [English](README.md)
+
 Google Cloud의 command line interface인  
 ```gcloud``` 명령을 활용한 ```bash``` 쉘 스크립트를 수록합니다.
 대체로 Google Compute Engine(GCE) 중심의 기술을 대상으로 합니다.

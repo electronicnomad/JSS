@@ -1,5 +1,7 @@
 # gcloud
 
+Read this in other language: [한국어](README.ko.md)
+
 Contains ```bash``` shell scripts using the ```gcloud``` command, Google Cloud's command line interface. It is aimed at technologies that are largely Google Compute Engine (GCE) centric.
 
 This is not to implement IaC in a big way, but I think it is meaningful to organize the Google Cloud infrastructure with only the ```bash``` shell, which is the most familiar language for infrastructure management and operation.

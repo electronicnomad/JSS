@@ -3,7 +3,7 @@
 A ```bash``` shell script that deploys VM instances of a single type to multiple regions.
 The goal is to minimize repetitive tasks.
 
-Read this in other languages: [한국어](README.ko.md)
+Read this in other language: [한국어](README.ko.md)
 
 ## Short description
 
