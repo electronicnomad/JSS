@@ -1,3 +1,5 @@
+Read this in other languages: [한국어](README.ko.md)
+
 # Create VM instances in multi regions
 
 A ```bash``` shell script that deploys VM instances of a single type to multiple regions.
