@@ -95,7 +95,7 @@ You can also use the zone name output from the command above. It's the same valu
 
 ### Create VPC
 
-```create-vpc-sh``` is responsible for creating a VPC and subnets.
+```create-vpc-subnet.sh``` is responsible for creating a VPC and subnets.
 ```bash
 #!/bin/bash
 source ./main.env

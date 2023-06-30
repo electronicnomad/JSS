@@ -96,7 +96,7 @@ us-west1-a                 us-west1                 UP
 
 ### VPC를 작성
 
-```create-vpc-sh```은 VPC와 subnet들을 만드는 역할을 합니다.  
+```create-vpc-subnet.sh```은 VPC와 subnet들을 만드는 역할을 합니다.  
 ```bash
 #!/bin/bash
 source ./main.env
