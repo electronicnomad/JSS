@@ -1,4 +1,4 @@
-# gcloud
+# IaC scripts on Google Cloud
 
 Read this in other language: [한국어](README.ko.md)
 
