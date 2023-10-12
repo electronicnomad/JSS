@@ -1,4 +1,4 @@
-# gcloud
+# IaC scripts on Google Cloud
 
 Read this in other language: [English](README.md)
 
