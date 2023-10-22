@@ -131,7 +131,7 @@ The setting of the rule in the shell script has the following meaning.
 
 * ```allow-ssh-ingress-from-iap```: To ensure access using IAP, access from ```35.235.240.0/20``` to ```TCP:22``` is allowed.
 * ```allow-ssh-in-private```: Allow ```TCP:22``` for SSH connection between VM instances within the CIDR range of the subnet, which is a limited range.
-* ```allow-pinging-in-private```: ```ICMP`` is allowed within the CIDR range of the subnet to check communication between VM instances.
+* ```allow-pinging-in-private```: ```ICMP``` is allowed within the CIDR range of the subnet to check communication between VM instances.
 
 A detailed description of setting up firewall rules for Identity-Aware Proxy (IAP) can be found in [Google Cloud Public Web Documentation](https://cloud.google.com/iap/docs/using-tcp-forwarding#create-firewall-rule ).
 
