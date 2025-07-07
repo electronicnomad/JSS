@@ -1,4 +1,4 @@
-# IaC scripts on Google Cloud
+# We can do it with JUST SHELL SCRIPTS
 
 Read this in other language: [English](README.md)
 
